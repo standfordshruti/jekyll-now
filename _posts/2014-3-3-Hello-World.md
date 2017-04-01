@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Let's get cracking
+title: super pacman 
 ---
 
-Here's a p5 example
+this is an amazing game 
 
 <iframe data-src='/p5/first' style='height: 400px'></iframe>
